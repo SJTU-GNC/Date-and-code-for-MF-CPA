@@ -2,7 +2,7 @@ plot_fig_5_gps_glo.m
 plot_fig_5_bds_gal.m
 plot_fig_6_gps_glo.m
 plot_fig_6_bds_gal.m
-are the codes used to plot fig1
+are the codes used to plot fig5 and fig6
 
 
 bds_24_global.mat
@@ -16,6 +16,7 @@ are the data used to plot
 sheixian_xz.mat
 plotSet.mat
 are the data to plot map
+
 
 
 the rest is the raw data
